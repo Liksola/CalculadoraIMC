@@ -1,0 +1,16 @@
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.exe
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.deps.json
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.runtimeconfig.json
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.dll
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.pdb
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.Form1.resources
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.dll
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\refint\CalculadoraIMC.dll
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.pdb
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\horap\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\ref\CalculadoraIMC.dll
